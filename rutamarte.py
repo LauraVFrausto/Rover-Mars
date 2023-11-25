@@ -8,9 +8,9 @@ Original file is located at
 
 # Planeación de rutas para la exploración en Marte
 
-* Miguuel Emiliano Gozalez Gauna A01633816
-* Francisco Javier Chávez Ochoa A01641644
-* Laura Merarí Valdivia Frausto A01641790
+* Miguuel Emiliano Gozalez Gauna
+* Francisco Javier Chávez Ochoa
+* Laura Merarí Valdivia Frausto
 """
 
 pip install simpleai
